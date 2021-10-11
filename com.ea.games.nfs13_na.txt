@@ -1,0 +1,32 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+NFS:MW Modded Save NA Version:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+Most Cars Unlocked
+
+Most Challenges Done
+
+Bunch of Speed Points
+
+Bunch of Money
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Insstagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"nfstr_save.sb"}
+
+{"to":"/data/data/com.ea.games.nfs13_na/files/var/nfstr_save.sb"}
+
+[END]
+
+Save Edited Enjoy 
